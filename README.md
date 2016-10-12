@@ -16,7 +16,7 @@ You can use tehse additional parameters:
 -      LDAP_SEARCH_BIND_PASSWORD
  
 Read the [official documentation](https://guacamole.incubator.apache.org/doc/gug/ldap-auth.html#idm140538189045056)
-
+ 
 
 [Guacamole](http://guac-dev.org/) is a clientless remote desktop gateway. It
 supports standard protocols like VNC and RDP. We call it clientless because no
